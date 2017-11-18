@@ -3,6 +3,7 @@
         <m-header />
         <tab></tab>
         <router-view></router-view>
+        <!-- test -->
        <player />
   </div>
 </template>
@@ -20,7 +21,7 @@ export default {
   },
   created(){
 
-   
+
 
   }
 
@@ -28,6 +29,6 @@ export default {
 </script>
 
 <style lang="stylus">
-     
+
 
 </style>
